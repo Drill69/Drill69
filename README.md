@@ -1,41 +1,30 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzM4NjY0MzYxYTRkYjI0M2M4OTk2NzA0NjE5YjQ1YmI4ODFkNWM5NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/3xz2BLBOt13X9AgjEA/giphy.gif" width="100%" />
 
-# Kauã Oliveira 👾
+# 🦇 Kauã Oliveira
 
-### `Desenvolvedor Front-End • Estudante de TI • Apaixonado por Tecnologia`
+### `The Dark Developer`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+GitHub!;Estudando+JavaScript%2C+C%23+e+Web;Sempre+aprendendo+algo+novo..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Welcome+to+the+Batcave...;Front-End+Developer;JavaScript+%7C+C%23+%7C+Web+Development;Code+Never+Sleeps..." />
 
 </div>
 
 ---
 
-# 🧠 Sobre Mim
+# 🦇 About Me
 
 ```js
-const kaua = {
-  nome: "Kauã Oliveira",
-  idade: 17,
-  local: "Brasil",
-  estudando: ["JavaScript", "C#", "HTML", "CSS"],
-  foco: "Desenvolvimento Web",
-  hobbies: ["Programar", "Games", "Tecnologia"],
-};
+class Developer {
+  constructor() {
+    this.name = "Kauã Oliveira";
+    this.role = "Front-End Developer";
+    this.learning = ["JavaScript", "C#", "React"];
+    this.focus = "Web Development";
+    this.mood = "🦇";
+  }
 
-
-<!--
-**Drill69/Drill69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  sayHi() {
+    return "I am vengeance. I am the night. I am a developer.";
+  }
+}
