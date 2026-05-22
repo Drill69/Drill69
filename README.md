@@ -1,5 +1,9 @@
 # Olá, eu sou Kauã Oliveira 👋
 
+<p align="center">
+  <img src="Wall-E-Desk_Pixel-Art_c++ donot.gif" width="500px">
+</p>
+
 🎓 Estudante de Desenvolvimento de Sistemas  
 💻 Apaixonado por programação e tecnologia  
 📚 Atualmente estudando JavaScript, C#, HTML e CSS
@@ -57,6 +61,7 @@ Sites e sistemas simples utilizando:
 ---
 
 ⭐ Obrigado por visitar meu perfil!
+
 
 <!--
 **Drill69/Drill69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
