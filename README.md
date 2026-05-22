@@ -1,8 +1,8 @@
-# Olá, eu sou Kauã Oliveira 👋
-
 <p align="center">
   <img src="Wall-E-Desk_Pixel-Art_c++ donot.gif" width="500px">
 </p>
+
+# Olá, eu sou Kauã Oliveira 👋
 
 🎓 Estudante de Desenvolvimento de Sistemas  
 💻 Apaixonado por programação e tecnologia  
