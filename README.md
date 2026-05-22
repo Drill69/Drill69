@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.tenor.com/eW2b0GfL5uQAAAAC/the-batman-batman.gif" width="100%" />
+<img src="https://i.pinimg.com/originals/af/66/6e/af666eba1e8c6382da2283efb9f6f42d.gif" width="100%" />
 
 # 🦇 KAUÃ OLIVEIRA
 
@@ -23,7 +23,11 @@
 
 # 🦇 About Me
 
-<img align="right" src="https://media.tenor.com/Jw7sJ6Aq0K8AAAAC/higuruma-jujutsu-kaisen.gif" width="300"/>
+<div align="center">
+
+<img src="https://64.media.tumblr.com/506514bf38f68263973580a62d23cacf/90d749d3a9719346-45/s1280x1920/5cd2b3792b247484db1c098d0dc66c5cb2c843a5.gif" width="500"/>
+
+</div>
 
 ```js
 class DarkDeveloper {
@@ -68,7 +72,7 @@ class DarkDeveloper {
 
 ---
 
-# 🌑 Gotham System
+# 🌑 Gotham Terminal
 
 ```bash
 > booting batcomputer...
@@ -126,7 +130,7 @@ Mode: DARK KNIGHT
 
 <div align="center">
 
-<img src="https://media.tenor.com/yRSbPKLVsN8AAAAC/higuruma-domain-expansion.gif" width="700"/>
+<img src="https://64.media.tumblr.com/506514bf38f68263973580a62d23cacf/90d749d3a9719346-45/s1280x1920/5cd2b3792b247484db1c098d0dc66c5cb2c843a5.gif" width="700"/>
 
 </div>
 
@@ -177,7 +181,7 @@ Every commit is part of the case.
 > “Vengeance won’t change the past.  
 > Mine or anyone else’s.”
 
-<img src="https://media.tenor.com/l0NwGpoOVLTAyUJSoAAAAC/batman-the-batman.gif" width="100%" />
+<img src="https://i.pinimg.com/originals/af/66/6e/af666eba1e8c6382da2283efb9f6f42d.gif" width="100%" />
 
 </div>
 
